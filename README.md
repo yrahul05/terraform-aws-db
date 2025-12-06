@@ -432,4 +432,9 @@ module "mysql" {
 | <a name="output_db_subnet_group_name"></a> [db\_subnet\_group\_name](#output\_db\_subnet\_group\_name) | The db subnet group name |
 | <a name="output_enhanced_monitoring_iam_role_arn"></a> [enhanced\_monitoring\_iam\_role\_arn](#output\_enhanced\_monitoring\_iam\_role\_arn) | The Amazon Resource Name (ARN) specifying the monitoring role |
 | <a name="output_enhanced_monitoring_iam_role_name"></a> [enhanced\_monitoring\_iam\_role\_name](#output\_enhanced\_monitoring\_iam\_role\_name) | The name of the monitoring role |
-<!-- END_TF_DOCS -->
+
+
+## 💙 Maintained by Rahul Yadav
+
+CEO & CTO at **[PrimeOps Technologies](https://primeops.co.in/)**
+Helping teams build stable, scalable and consistent cloud infrastructure.
